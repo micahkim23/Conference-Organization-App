@@ -88,7 +88,7 @@ Make sure you have Google App Engine SDK for Python installed before conducting 
 6. (Optional) Generate your client library(ies) with [the endpoints tool][6].
 7. Deploy your application.
 
-## Resources
+
 [1]: https://developers.google.com/appengine
 [2]: http://python.org
 [3]: https://developers.google.com/appengine/docs/python/endpoints/
